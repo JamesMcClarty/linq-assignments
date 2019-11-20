@@ -1,0 +1,11 @@
+c:\Users\James\workspace\csharp\exercises\linq\Challenge\bin\Debug\netcoreapp3.0\Challenge.exe
+C:\Users\James\workspace\csharp\exercises\linq\Challenge\bin\Debug\netcoreapp3.0\Challenge.deps.json
+C:\Users\James\workspace\csharp\exercises\linq\Challenge\bin\Debug\netcoreapp3.0\Challenge.runtimeconfig.json
+C:\Users\James\workspace\csharp\exercises\linq\Challenge\bin\Debug\netcoreapp3.0\Challenge.runtimeconfig.dev.json
+c:\Users\James\workspace\csharp\exercises\linq\Challenge\bin\Debug\netcoreapp3.0\Challenge.dll
+c:\Users\James\workspace\csharp\exercises\linq\Challenge\bin\Debug\netcoreapp3.0\Challenge.pdb
+c:\Users\James\workspace\csharp\exercises\linq\Challenge\obj\Debug\netcoreapp3.0\Challenge.csprojAssemblyReference.cache
+c:\Users\James\workspace\csharp\exercises\linq\Challenge\obj\Debug\netcoreapp3.0\Challenge.AssemblyInfoInputs.cache
+c:\Users\James\workspace\csharp\exercises\linq\Challenge\obj\Debug\netcoreapp3.0\Challenge.AssemblyInfo.cs
+c:\Users\James\workspace\csharp\exercises\linq\Challenge\obj\Debug\netcoreapp3.0\Challenge.dll
+c:\Users\James\workspace\csharp\exercises\linq\Challenge\obj\Debug\netcoreapp3.0\Challenge.pdb
